@@ -1,0 +1,12 @@
+LSPD`tBarry_Barrett`tГенерал<br>
+LSPD`tвакантно`tЗаместитель генерала<br>
+LSPD`tCody_Chehovich`tНачальник ПД<br>
+SFPD`tMark_Onegin`tГенерал<br>
+SFPD`tAndrey_Popkin`tЗаместитель генерала<br>
+SFPD`tSanya_Gorbach`tНачальник ПД<br>
+LVMPD`tDiego_Gonzales`tГенерал<br>
+LVMPD`tKevin_Avery`tЗаместитель генерала<br>
+LVMPD`tDima_Pravosudko`tГлава ПА<br>
+FBI`tViktoria_Simonova`tДиректор<br>
+FBI`tAleksandra_Simonova`tЗам.директора<br>
+FBI`tAlex_Brinks`tЗам.директора
