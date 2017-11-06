@@ -1,5 +1,5 @@
 LSPD,Barry_Barrett,Генерал<br>
-LSPD,вакантно	Заместитель,генерала<br>
+LSPD,вакантно,Заместитель генерала<br>
 LSPD,Cody_Chehovich,Начальник ПД<br>
 SFPD,Mark_Onegin,Генерал<br>
 SFPD,Andrey_Popkin,Заместитель генерала<br>
