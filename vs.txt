@@ -1,3 +1,4 @@
+МВД,Adam_Rabbane,Министр<br>
 LSPD,Barry_Barrett,Генерал<br>
 LSPD,свободно,Заместитель генерала<br>
 LSPD,Cody_Chehovich,Начальник ПД<br>
